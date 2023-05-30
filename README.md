@@ -2,6 +2,6 @@
 
 TECNOLOGIAS UTILIZADAS:
 - HTML
-- JavaSccript
+- JavaScript
 - TypeScript
 - Vue.js
